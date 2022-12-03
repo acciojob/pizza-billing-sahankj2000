@@ -50,7 +50,7 @@ public class Pizza {
             else bill = bill + "\nExtra Toppings Added: 120";
         }
         if(takeaway) bill = bill + "\nPaperbag Added: 20";
-        bill = bill + "\nTotal Price: "+price;
+        bill = bill + "\nTotal Price: "+price+"\n";
         return this.bill;
     }
 }
