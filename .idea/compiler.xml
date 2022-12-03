@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="java-assignment-testing-solution" />
+        <module name="pizza-billing-sahankj2000" />
       </profile>
     </annotationProcessing>
   </component>
